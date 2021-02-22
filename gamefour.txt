@@ -1,4 +1,5 @@
 surf_andromeda.bsp
+surf_beyer.bsp
 surf_canisius2_fix.bsp
 surf_compulsive_njv.bsp
 surf_doodles_njv.bsp
