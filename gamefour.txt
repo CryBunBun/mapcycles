@@ -9,7 +9,6 @@ surf_juturna_easy.bsp
 surf_kitsune.bsp
 surf_kitsune2_GO.bsp
 surf_lt_omnific_csgo.bsp
-surf_lt_unicorn_official.bsp
 surf_mesa_fix.bsp
 surf_nyx.bsp
 surf_rookie.bsp
