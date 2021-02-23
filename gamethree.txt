@@ -9,6 +9,7 @@ surf_elysium3.bsp
 surf_forbidden_ways_ksf.bsp
 surf_fortum.bsp
 surf_fruits.bsp
+surf_greensway.bsp
 surf_kitsune2_GO.bsp
 surf_kitsune.bsp
 surf_legends_lite.bsp
