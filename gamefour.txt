@@ -31,3 +31,4 @@ surf_underworld.bsp
 surf_vale.bsp
 surf_voteforthisone.bsp
 surf_whoknows.bsp
+surf_tronic_njv.bsp
