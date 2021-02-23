@@ -13,11 +13,9 @@ surf_goldarn.bsp
 surf_heaven.bsp
 surf_kitsune2_GO.bsp
 surf_leberation.bsp
-surf_leesriize.bsp
 surf_liberation2.bsp
 surf_lithium-.bsp
 surf_lt_omnific_csgo.bsp
-surf_lt_unicorn_official.bsp
 surf_nikolo.bsp
 surf_omnibus_sns.bsp
 surf_overgrowth.bsp
