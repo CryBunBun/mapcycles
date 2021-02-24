@@ -1,4 +1,3 @@
-surf_666.bsp
 surf_beyer.bsp
 surf_canisius2_fix.bsp
 surf_compulsive_njv.bsp
@@ -11,12 +10,9 @@ surf_forbidden_tomb4_njv.bsp
 surf_forbidden_tomb_sns.bsp
 surf_goldarn.bsp
 surf_heaven.bsp
-surf_kitsune2_GO.bsp
 surf_leberation.bsp
 surf_liberation2.bsp
 surf_lithium-.bsp
-surf_lt_omnific_csgo.bsp
-surf_nikolo.bsp
 surf_omnibus_sns.bsp
 surf_overgrowth.bsp
 surf_sinister_evil.bsp
