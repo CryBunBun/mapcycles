@@ -3,8 +3,6 @@ surf_canisius2_fix.bsp
 surf_compulsive_njv.bsp
 surf_doodles_njv.bsp
 surf_dusk.bsp
-surf_elysium.bsp
-surf_elysium3.bsp
 surf_eternal_beta.bsp
 surf_forbidden_tomb4_njv.bsp
 surf_forbidden_tomb_sns.bsp
