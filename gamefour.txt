@@ -23,7 +23,7 @@ surf_syria.bsp
 surf_syria_again_.bsp
 surf_trapped2.bsp
 surf_tundra.bsp
-surf_underworld.bsp
+surf_underworld_go.bsp
 surf_vale.bsp
 surf_voteforthisone.bsp
 surf_whoknows.bsp
