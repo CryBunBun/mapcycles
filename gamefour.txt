@@ -27,4 +27,3 @@ surf_tronic_njv.bsp
 surf_rustic.bsp
 surf_exclave.bsp
 surf_methadone.bsp
-surf_pancake.bsp
