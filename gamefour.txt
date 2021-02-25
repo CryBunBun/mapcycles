@@ -14,7 +14,6 @@ surf_omnibus_sns.bsp
 surf_overgrowth.bsp
 surf_sinister_evil.bsp
 surf_stonework2.bsp
-surf_sundown_njv.bsp
 surf_syria.bsp
 surf_syria_again_.bsp
 surf_trapped2.bsp
