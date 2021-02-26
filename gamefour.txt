@@ -6,7 +6,6 @@ surf_dusk.bsp
 surf_eternal_beta.bsp
 surf_forbidden_tomb4_njv.bsp
 surf_forbidden_tomb_sns.bsp
-surf_goldarn.bsp
 surf_heaven.bsp
 surf_leberation.bsp
 surf_liberation2.bsp
@@ -14,8 +13,6 @@ surf_omnibus_sns.bsp
 surf_overgrowth.bsp
 surf_sinister_evil.bsp
 surf_stonework2.bsp
-surf_syria.bsp
-surf_syria_again_.bsp
 surf_trapped2.bsp
 surf_tundra.bsp
 surf_underworld_go.bsp
