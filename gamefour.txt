@@ -25,3 +25,7 @@ surf_exclave.bsp
 surf_methadone.bsp
 surf_sentient.bsp
 surf_derpis_ksf.bsp
+surf_dynasty.bsp
+surf_exocube.bsp
+surf_furios-.bsp
+surf_zen.bsp
