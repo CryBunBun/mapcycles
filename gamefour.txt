@@ -1,3 +1,5 @@
+surf_jenocide.bsp
+surf_creation.bsp
 surf_666.bsp
 surf_beyer.bsp
 surf_canisius2_fix.bsp
