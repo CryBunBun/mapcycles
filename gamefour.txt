@@ -1,3 +1,4 @@
+surf_666.bsp
 surf_beyer.bsp
 surf_canisius2_fix.bsp
 surf_compulsive_njv.bsp
