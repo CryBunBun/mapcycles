@@ -33,3 +33,5 @@ surf_furios-.bsp
 surf_zen.bsp
 surf_asrown.bsp
 surf_lighthouse.bsp
+surf_calamity_njv.bsp
+surf_calamity2.bsp
