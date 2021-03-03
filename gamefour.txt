@@ -6,10 +6,8 @@ surf_compulsive_njv.bsp
 surf_doodles_njv.bsp
 surf_dusk.bsp
 surf_eternal_beta.bsp
-surf_forbidden_tomb4_njv.bsp
 surf_forbidden_tomb_sns.bsp
 surf_heaven.bsp
-surf_leberation.bsp
 surf_liberation2.bsp
 surf_omnibus_sns.bsp
 surf_overgrowth.bsp
