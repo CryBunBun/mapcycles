@@ -32,3 +32,4 @@ surf_exocube.bsp
 surf_furios-.bsp
 surf_zen.bsp
 surf_asrown.bsp
+surf_lighthouse.bsp
