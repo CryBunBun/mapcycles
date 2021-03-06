@@ -33,3 +33,7 @@ surf_asrown.bsp
 surf_lighthouse.bsp
 surf_calamity_njv_.bsp
 surf_calamity2.bsp
+surf_exocube_e.bsp
+surf_kawaii.bsp
+surf_concept_njv.bsp
+surf_deceptive_final.bsp
