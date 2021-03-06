@@ -37,3 +37,8 @@ surf_exocube_e.bsp
 surf_kawaii.bsp
 surf_concept_njv.bsp
 surf_deceptive_final.bsp
+surf_cyka.bsp
+surf_mansory-.bsp
+surf_injection_njv.bsp
+surf_static.bsp
+surf_1day.bsp
