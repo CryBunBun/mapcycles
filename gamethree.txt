@@ -7,4 +7,5 @@ surf_rookie.bsp
 surf_summit.bsp
 surf_sundown_njv.bsp
 surf_utopia_v3.bsp
+surf_utopia_njv.bsp
 surf_whiteout.bsp
