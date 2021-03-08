@@ -31,6 +31,7 @@ surf_overgrowth.bsp
 surf_proliferation.bsp
 surf_rustic.bsp
 surf_sandtrap2.bsp
+surf_sluice_final.bsp
 surf_sinister_evil.bsp
 surf_stonework2.bsp
 surf_sentient.bsp
