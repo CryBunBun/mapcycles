@@ -1,5 +1,4 @@
 surf_1day.bsp
-surf_4head_csgo.bsp
 surf_666.bsp
 surf_asrown.bsp
 surf_beyer.bsp
