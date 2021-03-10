@@ -42,4 +42,5 @@ surf_underworld_go.bsp
 surf_vale.bsp
 surf_voteforthisone.bsp
 surf_whoknows.bsp
+surf_whoknows2.bsp
 surf_zen.bsp
