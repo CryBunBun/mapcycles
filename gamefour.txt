@@ -2,6 +2,7 @@ surf_1day.bsp
 surf_666.bsp
 surf_asrown.bsp
 surf_beyer.bsp
+surf_beyer2.bsp
 surf_canisius2_fix.bsp
 surf_compulsive_njv.bsp
 surf_calamity_njv_.bsp
