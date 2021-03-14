@@ -1,5 +1,6 @@
 surf_1day.bsp
 surf_666.bsp
+surf_animals.bsp
 surf_asrown.bsp
 surf_beyer.bsp
 surf_beyer2.bsp
@@ -20,6 +21,7 @@ surf_exclave.bsp
 surf_eternal_beta.bsp
 surf_forbidden_tomb_sns.bsp
 surf_heaven.bsp
+surf_healthy_e.bsp
 surf_injection_njv.bsp
 surf_kawaii.bsp
 surf_liberation2.bsp
