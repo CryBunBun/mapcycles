@@ -4,6 +4,7 @@ surf_animals.bsp
 surf_ardon.bsp
 surf_beyer.bsp
 surf_beyer2.bsp
+surf_calibration.bsp
 surf_canisius2_fix.bsp
 surf_compulsive_njv.bsp
 surf_calamity_njv_.bsp
