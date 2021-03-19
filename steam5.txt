@@ -27,7 +27,7 @@ surf_injection_njv.bsp
 surf_koa.bsp
 surf_liberation2.bsp
 surf_lighthouse.bsp
-surf_loentra.bsp
+surf_loentra_fix_gf.bsp
 surf_methadone.bsp
 surf_metallic.bsp
 surf_misc.bsp
