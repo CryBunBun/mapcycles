@@ -1,6 +1,7 @@
 surf_andromeda.bsp
 surf_fortum.bsp
 surf_kitsune.bsp
+surf_lovetunnel.bsp
 surf_mesa_fix.bsp
 surf_nyx.bsp
 surf_rookie.bsp
