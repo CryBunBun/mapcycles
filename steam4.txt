@@ -1,10 +1,13 @@
 surf_andromeda.bsp
+surf_calycate2.bsp
+surf_forbidden_ways_ksf.bsp
 surf_fortum.bsp
 surf_kitsune.bsp
 surf_lovetunnel.bsp
 surf_mesa_fix.bsp
 surf_nyx.bsp
 surf_rookie.bsp
+surf_saturday_fix.bsp
 surf_summit.bsp
 surf_sundown_njv.bsp
 surf_tendies.bsp
