@@ -31,10 +31,7 @@ surf_metallic.bsp
 surf_misc.bsp
 surf_milkyway.bsp
 surf_omnibus_sns.bsp
-surf_overgrowth.bsp
-surf_pandemonium.bsp
 surf_proliferation.bsp
-surf_primero_njv.bsp
 surf_rustic.bsp
 surf_sluice_final.bsp
 surf_sinister_evil.bsp
