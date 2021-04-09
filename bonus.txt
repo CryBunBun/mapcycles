@@ -2,7 +2,6 @@ surf_1day.bsp
 surf_666.bsp
 surf_ameliorate.bsp
 surf_animals.bsp
-surf_ardon.bsp
 surf_aser.bsp
 surf_beyer.bsp
 surf_beyer2.bsp
