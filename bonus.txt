@@ -5,6 +5,7 @@ surf_ardon.bsp
 surf_aser.bsp
 surf_beyer.bsp
 surf_beyer2.bsp
+surf_calycate2.bsp
 surf_canisius2_fix.bsp
 surf_compulsive_njv.bsp
 surf_calamity_njv_.bsp
@@ -20,6 +21,7 @@ surf_dusk.bsp
 surf_exclave.bsp
 surf_eternal_beta.bsp
 surf_forbidden_tomb_sns.bsp
+surf_guitar_hi.bsp
 surf_gurus_njv.bsp
 surf_heaven.bsp
 surf_healthy_e.bsp
@@ -38,11 +40,13 @@ surf_pandemonium.bsp
 surf_proliferation.bsp
 surf_primero_njv.bsp
 surf_rustic.bsp
+surf_saturday_fix.bsp
 surf_sluice_final.bsp
 surf_sinister_evil.bsp
 surf_sippysip.bsp
 surf_smaragd.bsp
 surf_stonework2.bsp
+surf_sundown_njv.bsp
 surf_sentient.bsp
 surf_sexyartz_njv.bsp
 surf_static.bsp
