@@ -43,7 +43,6 @@ surf_rustic.bsp
 surf_saturday_fix.bsp
 surf_sluice_final.bsp
 surf_sinister_evil.bsp
-surf_sippysip.bsp
 surf_smaragd.bsp
 surf_stonework2.bsp
 surf_sundown_njv.bsp
