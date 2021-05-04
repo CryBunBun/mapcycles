@@ -59,3 +59,4 @@ surf_voteforthisone.bsp
 surf_whoknows.bsp
 surf_whoknows2.bsp
 surf_zen.bsp
+surf_interference_csgo.bsp
