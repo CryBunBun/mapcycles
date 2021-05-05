@@ -62,3 +62,4 @@ surf_interference_csgo.bsp
 surf_hope.bsp
 surf_elysium4.bsp
 surf_olympics.bsp
+surf_Stonework4.bsp
