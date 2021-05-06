@@ -61,5 +61,5 @@ surf_zen.bsp
 surf_interference_csgo.bsp
 surf_hope.bsp
 surf_elysium4.bsp
-
+surf_highlands.bsp
 
