@@ -64,3 +64,4 @@ surf_elysium4.bsp
 surf_highlands.bsp
 surf_cement.bsp
 surf_lost2.bsp
+surf_runewords.bsp
