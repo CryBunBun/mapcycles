@@ -63,3 +63,4 @@ surf_hope.bsp
 surf_elysium4.bsp
 surf_highlands.bsp
 surf_cement.bsp
+surf_garden_h_go.bsp
