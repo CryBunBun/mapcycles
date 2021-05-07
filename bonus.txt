@@ -66,3 +66,4 @@ surf_cement.bsp
 surf_lost2.bsp
 surf_runewords.bsp
 surf_thesteve.bsp
+surf_queen_of_the_ween.bsp
