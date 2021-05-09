@@ -68,3 +68,4 @@ surf_runewords.bsp
 surf_thesteve.bsp
 surf_queen_of_the_ween.bsp
 surf_kitsune2_go.bsp
+surf_gekar.bsp
