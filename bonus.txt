@@ -65,3 +65,4 @@ surf_queen_of_the_ween.bsp
 surf_kitsune2_go.bsp
 surf_gekar.bsp
 surf_sunday.bsp
+surf_papertown.bsp
