@@ -35,9 +35,7 @@ surf_misc.bsp
 surf_milkyway.bsp
 surf_omnibus_sns.bsp
 surf_overgrowth.bsp
-surf_pandemonium.bsp
 surf_proliferation.bsp
-surf_primero_njv.bsp
 surf_rustic.bsp
 surf_saturday_fix.bsp
 surf_sluice_final.bsp
@@ -59,12 +57,9 @@ surf_whoknows.bsp
 surf_whoknows2.bsp
 surf_zen.bsp
 surf_interference_csgo.bsp
-surf_hope.bsp
-surf_elysium4.bsp
 surf_highlands.bsp
 surf_cement.bsp
 surf_lost2.bsp
-surf_runewords.bsp
 surf_thesteve.bsp
 surf_queen_of_the_ween.bsp
 surf_kitsune2_go.bsp
