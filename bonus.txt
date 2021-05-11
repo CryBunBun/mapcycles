@@ -66,3 +66,4 @@ surf_kitsune2_go.bsp
 surf_gekar.bsp
 surf_sunday.bsp
 surf_papertown.bsp
+surf_pagoda.bsp
