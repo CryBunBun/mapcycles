@@ -67,3 +67,4 @@ surf_gekar.bsp
 surf_sunday.bsp
 surf_papertown.bsp
 surf_pagoda.bsp
+surf_axiom_fix.bsp
