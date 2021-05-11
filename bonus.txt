@@ -69,3 +69,4 @@ surf_papertown.bsp
 surf_axiom_fix.bsp
 surf_hope.bsp
 surf_delight_go.bsp
+surf_pagoda.bsp
