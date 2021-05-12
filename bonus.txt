@@ -70,3 +70,4 @@ surf_axiom_fix.bsp
 surf_hope.bsp
 surf_delight_go.bsp
 surf_lt_omnific.bsp
+surf_illusion.bsp
