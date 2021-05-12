@@ -10,11 +10,11 @@ surf_canisius2_fix.bsp
 surf_compulsive_njv.bsp
 surf_calamity_njv_.bsp
 surf_calamity2.bsp
-surf_creation.bsp
+
 surf_concept_njv.bsp
 surf_cyka.bsp
 surf_doodles_njv.bsp
-surf_deceptive_final.bsp
+
 surf_derpis_ksf.bsp
 surf_dynasty.bsp
 surf_dusk.bsp
@@ -61,7 +61,7 @@ surf_highlands.bsp
 surf_cement.bsp
 surf_lost2.bsp
 surf_thesteve.bsp
-surf_queen_of_the_ween.bsp
+
 surf_kitsune2_go.bsp
 surf_gekar.bsp
 surf_sunday.bsp
