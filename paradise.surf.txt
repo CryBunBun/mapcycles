@@ -8,3 +8,4 @@ surf_summit.bsp
 surf_tendies.bsp
 surf_utopia_v3.bsp
 surf_whiteout.bsp
+surf_pantheon.bsp
