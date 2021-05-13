@@ -68,3 +68,4 @@ surf_hope.bsp
 surf_delight_go.bsp
 surf_illusion.bsp
 surf_pantheon.bsp
+surf_runewords.bsp
